@@ -1,14 +1,14 @@
 //
-//  SwiftUI_week1App.swift
-//  SwiftUI_week1
+//  week1_practiceApp.swift
+//  week1_practice
 //
-//  Created by Youbin on 3/25/25.
+//  Created by Youbin on 3/27/25.
 //
 
 import SwiftUI
 
 @main
-struct SwiftUI_week1App: App {
+struct week1_practiceApp: App {
     var body: some Scene {
         WindowGroup {
             TicketView()

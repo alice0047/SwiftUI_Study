@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  week2_assignment
+//  week1_assignment
 //
 //  Created by Youbin on 3/27/25.
 //

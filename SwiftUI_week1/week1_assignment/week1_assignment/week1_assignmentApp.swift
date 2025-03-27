@@ -1,6 +1,6 @@
 //
-//  week2_assignmentApp.swift
-//  week2_assignment
+//  week1_assignmentApp.swift
+//  week1_assignment
 //
 //  Created by Youbin on 3/27/25.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct week2_assignmentApp: App {
+struct week1_assignmentApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

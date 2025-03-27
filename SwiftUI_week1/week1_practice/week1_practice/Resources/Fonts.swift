@@ -1,8 +1,8 @@
 //
 //  Fonts.swift
-//  SwiftUI_week1
+//  week1_practice
 //
-//  Created by Youbin on 3/25/25.
+//  Created by Youbin on 3/27/25.
 //
 
 import Foundation
@@ -54,7 +54,5 @@ extension Font {
     static var PretendardLight16: Font {
         return .pretend(type: .light, size: 16)
     }
-    
-    /* 여기에 더 추가해주세요 */
     
 }

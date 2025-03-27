@@ -1,6 +1,6 @@
 //
-//  ContentView.swift
-//  SwiftUI_week1
+//  TicketView.swift
+//  week1_practice
 //
 //  Created by Youbin on 3/25/25.
 //
