@@ -10,22 +10,9 @@
 		9378B6DE2D956F3F00C04DFB /* week1_assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = week1_assignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		9378B71C2D95703700C04DFB /* Exceptions for "week1_assignment" folder in "week1_assignment" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"week1-assignment-Info.plist",
-			);
-			target = 9378B6DD2D956F3F00C04DFB /* week1_assignment */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		9378B6E02D956F3F00C04DFB /* week1_assignment */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				9378B71C2D95703700C04DFB /* Exceptions for "week1_assignment" folder in "week1_assignment" target */,
-			);
 			path = week1_assignment;
 			sourceTree = "<group>";
 		};

@@ -39,20 +39,70 @@ extension Font {
         return .custom(type.value, size: size)
     }
     
-    static var PretendardBold30: Font {
-        return .pretend(type: .bold, size: 30)
+    //MARK: - Text styles
+    static var mainTextExtraBold24: Font {
+        return .pretend(type: .extraBold, size: 24)
     }
     
-    static var PretendardBold24: Font {
+    static var mainTextBold24: Font {
         return .pretend(type: .bold, size: 24)
     }
     
-    static var PretendardSemiBold18: Font {
+    static var mainTextBold20: Font {
+        return .pretend(type: .bold, size: 20)
+    }
+    
+    static var mainTextSemiBold38: Font {
+        return .pretend(type: .semibold, size: 38)
+    }
+    
+    static var mainTextSemiBold24: Font {
+        return .pretend(type: .semibold, size: 24)
+    }
+    
+    static var mainTextSemiBold18: Font {
         return .pretend(type: .semibold, size: 18)
     }
     
-    static var PretendardLight16: Font {
-        return .pretend(type: .light, size: 16)
+    static var mainTextSemiBold16: Font {
+        return .pretend(type: .semibold, size: 16)
+    }
+    
+    static var mainTextSemiBold14: Font {
+        return .pretend(type: .semibold, size: 14)
+    }
+    
+    static var mainTextSemiBold13: Font {
+        return .pretend(type: .semibold, size: 13)
+    }
+    
+    static var mainTextMedium16: Font {
+        return .pretend(type: .medium, size: 16)
+    }
+    
+    static var mainTextRegular18: Font {
+        return .pretend(type: .regular, size: 18)
+    }
+    
+    static var mainTextRegular13: Font {
+        return .pretend(type: .regular, size: 13)
+    }
+    
+    static var mainTextRegular12: Font {
+        return .pretend(type: .regular, size: 12)
+    }
+    
+    static var mainTextRegular9: Font {
+        return .pretend(type: .regular, size: 9)
+    }
+    
+    static var mainTextLignt14: Font {
+        return .pretend(type: .light, size: 14)
+    }
+
+    //MARK: - Button styles
+    static var makeMedium18: Font {
+        return .pretend(type: .medium, size: 18)
     }
     
 }
